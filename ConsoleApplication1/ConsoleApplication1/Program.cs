@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("hello worlds");
+            Console.WriteLine("the file was changed for fun!");
         }
     }
 }
